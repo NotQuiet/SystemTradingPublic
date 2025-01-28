@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65fdd173-4dbd-418f-970f-0cc4e2c9aca7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Constants/ApiInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Constants/ApiInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Controllers/BinanceSocketController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Controllers/BinanceSocketController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Controllers/DecisionTreeController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Controllers/DecisionTreeController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Controllers/GoogleSheetsController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Controllers/GoogleSheetsController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Controllers/HistoricalPricesSaverController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Controllers/HistoricalPricesSaverController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/CreateTable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/AlligatorProcessorNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/AlligatorProcessorNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/MACDProcessorNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/MACDProcessorNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/MACDTradeNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/MACDTradeNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/NadarayaWatsonEnvelopeNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/NadarayaWatsonEnvelopeNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/NodeAnalyze/MACDAlertManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/NodeAnalyze/MACDAlertManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/NodeAnalyze/PumpDumpAlertManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/NodeAnalyze/PumpDumpAlertManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/NodeAnalyze/RsiEnvelopeAlertManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/NodeAnalyze/RsiEnvelopeAlertManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/OpenInterestProcessorNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/OpenInterestProcessorNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/PumpDumpDetectorNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/PumpDumpDetectorNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/RsiProcessorNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/RsiProcessorNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/Signals/SignalManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/Signals/SignalManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/Signals/SignalRepository.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/Signals/SignalRepository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/Transactions/Transaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/Transactions/Transaction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/Transactions/TransactionsManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/Transactions/TransactionsManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DecisionTree/TreeNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DecisionTree/TreeNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Dto/CoinDataDto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Dto/CoinDataDto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Managers/ConnectionManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Managers/ConnectionManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Managers/TelegramBotManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Managers/TelegramBotManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/TelegramBot/DefaultTelegramBot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/TelegramBot/DefaultTelegramBot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Tests/TestBinanceToken.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Tests/TestBinanceToken.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/table_output.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2kY1sQTlm84QMYIxqEzdXSWt4N9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BinanceSocketController.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConnectionController.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConnectionManager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CreateTable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DecisionTreeController.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DefaultTelegramBot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GoogleSheetsController.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MACDProcessorNode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NadarayaWatsonEnvelopeNode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TelegramBotManager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestBinanceToken.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestLongStrategy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TransactionsManager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.apiInfo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;OldBranch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.ConnectionController">
+    <configuration name="ConnectionController" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject-TelegramBotBin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/Controllers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/Controllers/ConnectionController.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CreateTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject-TelegramBotBin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/CreateTable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GoogleSheetsController" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject-TelegramBotBin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/Controllers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/Controllers/GoogleSheetsController.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TelegramBotManager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject-TelegramBotBin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/Managers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/Managers/TelegramBotManager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ConnectionController" />
+        <item itemvalue="Python.CreateTable" />
+        <item itemvalue="Python.GoogleSheetsController" />
+        <item itemvalue="Python.TelegramBotManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b81319f9767f-JavaScript-PY-251.17181.23" />
+        <option value="bundled-python-sdk-e38c738c5520-4b4348995d94-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.17181.23" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65fdd173-4dbd-418f-970f-0cc4e2c9aca7" name="Changes" comment="" />
+      <created>1723445902102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723445902102</updated>
+      <workItem from="1723445903456" duration="523000" />
+      <workItem from="1723446437963" duration="8600000" />
+      <workItem from="1723610718488" duration="6314000" />
+      <workItem from="1723692482478" duration="8341000" />
+      <workItem from="1725563894520" duration="6733000" />
+      <workItem from="1726065221372" duration="16000" />
+      <workItem from="1726065247005" duration="9340000" />
+      <workItem from="1726557732866" duration="10478000" />
+      <workItem from="1729583041181" duration="10000" />
+      <workItem from="1729747558905" duration="4000" />
+      <workItem from="1729747580217" duration="600000" />
+      <workItem from="1730103262057" duration="4160000" />
+      <workItem from="1731310215737" duration="2189000" />
+      <workItem from="1731473114085" duration="568000" />
+      <workItem from="1738068558937" duration="9000" />
+      <workItem from="1738068726209" duration="1218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Lib/site-packages/binance/streams.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$GoogleSheetsController.coverage" NAME="GoogleSheetsController Coverage Results" MODIFIED="1727932015256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/Controllers" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$TransactionsManager.coverage" NAME="TransactionsManager Coverage Results" MODIFIED="1724752344863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/DecisionTree/Transactions" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$CreateTable.coverage" NAME="CreateTable Coverage Results" MODIFIED="1731568062715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$apiInfo.coverage" NAME="apiInfo Coverage Results" MODIFIED="1723448272734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/Constants" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$BinanceSocketController.coverage" NAME="BinanceSocketController Coverage Results" MODIFIED="1723695003996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/Controllers" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$ConnectionController.coverage" NAME="ConnectionController Coverage Results" MODIFIED="1735370358356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/Controllers" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$MACDProcessorNode.coverage" NAME="MACDProcessorNode Coverage Results" MODIFIED="1725524433213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/DecisionTree" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$TelegramBotManager.coverage" NAME="TelegramBotManager Coverage Results" MODIFIED="1727716430260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/Managers" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$ConnectionManager.coverage" NAME="ConnectionManager Coverage Results" MODIFIED="1725342729091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/Managers" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$teestautotrading.coverage" NAME="teestautotrading Coverage Results" MODIFIED="1732629186972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/test" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$DecisionTreeController.coverage" NAME="DecisionTreeController Coverage Results" MODIFIED="1724133164615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/Controllers" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$NadarayaWatsonEnvelopeNode.coverage" NAME="NadarayaWatsonEnvelopeNode Coverage Results" MODIFIED="1724127996805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/DecisionTree" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$TestLongStrategy.coverage" NAME="TestLongStrategy Coverage Results" MODIFIED="1724480786853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/Tests" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$TestBinanceToken.coverage" NAME="TestBinanceToken Coverage Results" MODIFIED="1725344246599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/Tests" />
+    <SUITE FILE_PATH="coverage/pythonProject_TelegramBotBin$DefaultTelegramBot.coverage" NAME="DefaultTelegramBot Coverage Results" MODIFIED="1724690198864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts/TelegramBot" />
+  </component>
+</project>
